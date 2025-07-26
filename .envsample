@@ -1,0 +1,15 @@
+#Key for access the Google Cloud Platform API
+GCP_API_KEY=your_api_key_for_GCP
+#if true a web server will run on localhost:3000 to simulate all Cloud APIs (for testing)
+WEBSIMULATOR_ENABLE=False
+#hostmame for the web server
+WEBSIMULATOR_HOST=localhost
+#Port for the web server
+WEBSIMULATOR_PORT=3000
+#Mongo URI for the database
+MONGO_URI=mongodb://localhost:27017/CloudDB
+#If true the content fetched will be store in locally
+STORE_FETCH_CONTENT=False
+#Log level for the logger
+LOG_LEVEL=DEBUG
+
