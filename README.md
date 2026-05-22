@@ -10,6 +10,10 @@ de datos en instancias dedicadas.
 Este repositorio complementa al comparador de precios de hiperescaladores disponible
 en https://github.com/Ivantg01/CompareHSPrices
 
+## Screenshots:
+Price list capture modules
+<img src="./screenshots/Imagen1.jpg" width="90%"></img>
+
 ## Herramientas usadas:
 
 ![tools](https://skillicons.dev/icons?i=typescript,deno,mongodb,express,aws,azure,googlecloud)
